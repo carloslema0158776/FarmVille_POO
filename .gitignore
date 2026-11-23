@@ -1,0 +1,6 @@
+.idea/
+out/
+*.iml
+*.class
+partida_farmville.txt
+.DS_Store
