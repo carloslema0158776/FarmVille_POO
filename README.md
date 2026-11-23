@@ -30,7 +30,11 @@ Incluye cultivos como tomate, trigo, maíz, papa, lechuga, zanahoria y calabaza.
 
 **Java**, **IntelliJ IDEA**, programación orientada a objetos, archivos de texto y **JavaDoc**.
 
-## Estructura
+## Estado de publicación
+
+> El código fuente Java se ha preparado y verificado localmente, pero **aún no está incorporado a este repositorio**. El paquete limpio contiene los 28 archivos `.java` y está disponible por separado para su publicación. La documentación JavaDoc y los informes originales también quedan pendientes de selección y publicación.
+
+## Estructura prevista
 
 - `src/farmville/`: código Java de las clases, interfaces, excepciones y menú de consola.
 - `docs/INSTRUCTIVO.md`: instrucciones de ejecución.
