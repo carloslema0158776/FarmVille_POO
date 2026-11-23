@@ -32,9 +32,9 @@ Incluye cultivos como tomate, trigo, maíz, papa, lechuga, zanahoria y calabaza.
 
 ## Estado de publicación
 
-> El código fuente Java se ha preparado y verificado localmente, pero **aún no está incorporado a este repositorio**. El paquete limpio contiene los 28 archivos `.java` y está disponible por separado para su publicación. La documentación JavaDoc y los informes originales también quedan pendientes de selección y publicación.
+✅ **Código fuente publicado:** los 28 archivos `.java` originales se encuentran en `src/farmville/`, junto con el README y el instructivo. Se excluyen los `.class`, configuraciones privadas del IDE y partidas guardadas. La documentación JavaDoc generada y los informes académicos originales no se publicaron.
 
-## Estructura prevista
+## Estructura del repositorio
 
 - `src/farmville/`: código Java de las clases, interfaces, excepciones y menú de consola.
 - `docs/INSTRUCTIVO.md`: instrucciones de ejecución.
